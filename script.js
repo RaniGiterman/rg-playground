@@ -1,5 +1,4 @@
 window.onload = () => {
-    document.getElementById("editor").value = "";
     log("כאן ניתן לצפות בפלט התוכנית");
 };
 
